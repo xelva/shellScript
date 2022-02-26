@@ -1,0 +1,5 @@
+#!/bin/bash
+# A test script
+mkdir /Users/xelva/Documents/projects/new-project
+mkdir /Users/xelva/Documents/projects/new-project/assets /Users/xelva/Documents/projects/new-project/css /Users/xelva/Documents/projects/new-project/js
+touch /Users/xelva/Documents/projects/new-project/index.html /Users/xelva/Documents/projects/new-project/assets/logo.svg /Users/xelva/Documents/projects/new-project/assets/photo.jpg /Users/xelva/Documents/projects/new-project/css/style.css /Users/xelva/Documents/projects/new-project/js/scripts.js
